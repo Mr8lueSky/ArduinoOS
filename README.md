@@ -1,1 +1,3 @@
-"# ArduinoOS" 
+# ArduinoOS
+
+A simple Arduino OS
